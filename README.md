@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XibariS, AGL 30/m/Germany (Eifel).
+- 👋 Hi, I’m @XibariS.
 - 👀 I’m interested in custom built mechanical keyboards.
 - 🌱 I’m currently learning how to build layouts for EK Switch Hitter.
 - 💞️ I’m looking to collaborate on projects that belong to KLE, VIA and QMK.
